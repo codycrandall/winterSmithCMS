@@ -1,3 +1,5 @@
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 ---
 title: "Wintersmith with Netlify"
 author: Netlify Team
